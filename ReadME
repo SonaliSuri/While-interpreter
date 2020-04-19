@@ -1,0 +1,7 @@
+Programming Language For Assignment 1 : Python
+Programming Language for Assignment 2 : Haskell
+
+Steps to run:
+a. Install GHC using https://www.haskell.org/ghcup/ . Install stack if needed
+b. Run the make file using make command
+c. The make file creates an executable while which can be executed using ./while.
